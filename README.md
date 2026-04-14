@@ -1,85 +1,87 @@
-Release Date		: 04/12/2026
-=========================================================
-Title			: Outlaws Remastered Launcher v1.0.3
-Filename		: OutlawsLauncher.zip
-Author			: T4H_Dingle
+Outlaws Remastered Launcher
 
-Description             :  A lightweight launcher for Outlaws Remastered,
-                           designed to streamline gameplay, mod management,
-                           and overall usability. Provides quick access to
-                           the game alongside tools for managing taunts,
-                           custom maps, and optional enhancements.
+Author : T4H_Dingle
 
-Features                :  Integrated launcher with support for:
-                           - Game launch management
-                           - Custom map search and installation
-                           - Installed map browser and removal
-                           - Taunt editor with sound selection
-                           - Toggleable gameplay enhancements
-                           - Automatic file handling and backups
+Description : A lightweight launcher for Outlaws Remastered,
+designed to streamline gameplay, mod management,
+and overall usability.
 
-==========================================================
 
-* Installation *
+Features :
+Launch Outlaws Remastered with a configured install path
+Search, install, and manage custom maps
+Configure taunts with custom sound files
+Toggle gameplay enhancements and fixes
+Automatic file handling with backup/restore system
+Context-aware downloads (only prompted when required)
 
-Install Instructions    :  Extract the contents of this archive to your
-                           Outlaws Remaster install folder and run 
-                           OutlawsLauncher.exe.
 
-                           On first launch, you will be prompted to
-                           select your Outlaws Remastered directory.
+Installation :
+Extract the contents into your Outlaws Remastered install folder
+and run OutlawsLauncher.exe.
 
-* Usage *
+On first launch, you will be prompted to select your game directory.
 
-Play Outlaws            :  Launches the game using the configured path
 
-Options                 :  Toggle available enhancements:
-                           - Restore Red Plus Items
-                           - More faithful James pistol and rifle
-                           - Disable startup movies
+Usage :
+Play Outlaws
+Launches Outlaws Remastered using the configured install path
 
-Custom Maps             :  Search, install, and manage community maps
+Options
+Configure gameplay and quality-of-life enhancements:
 
-Manage Taunts           :  Edit taunts and assign sound files
+Manage Install Folder
+Set or update the game install directory and open it in file explorer
 
-Manage Install          :  Configure install location and open
-                           the game directory
+Map Loader
+Search, install, and manage community maps
 
-Exit to Windows         :  Closes the launcher
+Configure Taunts
+Edit in-game taunts and assign custom sound files
 
-* Compatibility *
+Exit to Windows
+Closes the launcher
 
-Game                    :  Outlaws Remastered (Steam / GOG)
-Language Support        :  English
 
-Notes                   :  The launcher relies on included Assets and
-                           should be kept intact. Some features require
-                           valid game files to function correctly.
+First-Time Setup :
+You will be prompted to select your Outlaws Remastered directory
+Required files are configured automatically
+Optional content (such as remastered cutscenes) is only
+downloaded when enabled
 
-Replaces Files          :  No (uses toggle/backup systems)
-Other Mods              :  Compatible with most mods depending on
-                           overlapping files
 
-* Notes *
+Compatibility :
+Game : Outlaws Remastered (Steam / GOG)
+Language : English
 
-General                 :  This launcher is designed to be non-destructive.
-                           Mod options are applied using backups and can
-                           be toggled on or off at any time.
 
-                           Custom maps must include valid LAB and mission
-                           files (RCM, RCA, or RCS) to be recognised.
+Notes :
+The launcher relies on included assets and should be kept intact
+Some features require valid game files to function correctly
 
-* Credits *
 
-Development             :  T4H_Dingle
+Mod Compatibility :
+Does not permanently replace core files
+Uses backup/restore systems for all modifications
+Compatible with most mods depending on overlapping files
 
-Original Game           :  LucasArts
-Remastered Version      :  Nightdive Studios
 
-* Copyright / Permissions *
+Additional Notes :
+Designed to be non-destructive; all changes can be reverted
+Custom maps must include valid files:
+LAB, RCM, RCA, or RCS
+Backup systems ensure original files are restored when disabled
 
-You MAY distribute this launcher, provided you include this file,
-with no modifications.
+
+Credits :
+Development : T4H_Dingle
+Original Game : LucasArts
+Remaster : Nightdive Studios
+
+
+License / Permissions :
+You MAY distribute this launcher, provided this file is included
+and unmodified.
 
 You MAY NOT modify or redistribute altered versions without
 permission from the author.
